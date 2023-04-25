@@ -9,18 +9,18 @@ const AppFooter: React.FC = () => {
                 <div className="col-sm-12 col-md">
                     <div className="ftco-footer-widget mb-4">
                         <h2 className="ftco-heading-2 logo">Sobre Nós</h2>
-                        <p>Desentupidora Hidrojett - Somos movido pelo desafio de promover a cada dia serviços de qualidade e
+                        <p>Desentupidora Tigres - Somos movido pelo desafio de promover a cada dia serviços de qualidade e
                             eficiência, fazendo a diferença, respeitando o consumidor, garantindo por escrito serviços
                             de qualidade a sociedade com competência , ética, cordialidade e respeito à diversidade.</p>
                         <ul className="ftco-footer-social list-unstyled mt-2">
                             <li className=""><a aria-label="Twitter"
-                                href="https://www.facebook.com/hidrojettdesentupidora/"><span
+                                href="https://www.facebook.com/tigresdesentupidora/"><span
                                     className="fa fa-twitter"></span></a></li>
                             <li className=""><a aria-label="Facebook"
-                                href="https://www.facebook.com/hidrojettdesentupidora/"><span
+                                href="https://www.facebook.com/tigresdesentupidora/"><span
                                     className="fa fa-facebook"></span></a></li>
                             <li className=""><a aria-label="Instagram"
-                                href="https://www.facebook.com/hidrojettdesentupidora/"><span
+                                href="https://www.facebook.com/tigresdesentupidora/"><span
                                     className="fa fa-instagram"></span></a></li>
                         </ul>
                     </div>
@@ -62,8 +62,8 @@ const AppFooter: React.FC = () => {
                     <div className="ftco-footer-widget mb-4 ml-md-4">
                         <h2 className="ftco-heading-2">Contato(s)</h2>
                         <ul className="list-unstyled">
-                            <li><a aria-label="Telefone 1" href="tel://5511937773016"><span
-                                className="fa fa-chevron-right mr-2"></span>Tel: (11) 93777-3016</a></li>
+                            <li><a aria-label="Telefone 1" href="tel://5511996081890"><span
+                                className="fa fa-chevron-right mr-2"></span>Tel: (11) 99608-1890</a></li>
                         </ul>
                     </div>
 
@@ -84,16 +84,14 @@ const AppFooter: React.FC = () => {
                         <h2 className="ftco-heading-2">E-mail</h2>
                         <ul className="list-unstyled">
                             <li><a aria-label="Email Contato" href="#"><span
-                                className="fa fa-chevron-right mr-2"></span>hidrojett@gmail.com.br</a>
+                                className="fa fa-chevron-right mr-2"></span>tigres@gmail.com.br</a>
                             </li>
                         </ul>
                     </div>
                     <div className="ftco-footer-widget mb-4">
                         <h2 className="ftco-heading-2">Endereço</h2>
                         <ul className="list-unstyled">
-                            <li>Rua Heloisa Pamplona, 32,
-                                fundação São Caetano do Sul - São Paulo
-                                CEP: 09520-320</li>
+                            <li>R. Blumenau, 66 - GuarulhosSP, 07073-150</li>
                         </ul>
                     </div>
                 </div>

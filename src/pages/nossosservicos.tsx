@@ -25,7 +25,7 @@ const QuemSomos: React.FC<{}> = () => {
                         </div>
                     </div>
                     <div className="block-left col-md-12">
-                        <a href="tel:+5511937773016" id="btnLigarAgora" aria-label="Ligue"
+                        <a href="tel:+5511996081890" id="btnLigarAgora" aria-label="Ligue"
                             className="btn btn-primary margin-btn col-xs-12 col-sm-12 col-md-12 col-lg-12">
                             CLICK AQUI E LIGUE AGORA
                         </a>
@@ -65,7 +65,7 @@ const QuemSomos: React.FC<{}> = () => {
                                 </div>
                                 <div className="text">
                                     <h2>DESENTUPIMENTO DE ESGOTOS</h2>
-                                    <p>A Hidrojett Desentupidora é especialista em todo o tipo de desentupimento.
+                                    <p>A tigres Desentupidora é especialista em todo o tipo de desentupimento.
                                         Atuando em diferentes tipos de encanamento possui uma equipe técnica capacitada para
                                         sempre achar o problema de maneira rápida,
                                         prática e eficiente.</p>

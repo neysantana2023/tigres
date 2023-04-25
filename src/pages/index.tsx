@@ -620,7 +620,7 @@ c170 0 185 2 209 20 27 21 47 74 47 123 0 15 5 27 10 27 6 0 10 42 11 103 1
                       <span className="fa fa-quote-left" />
                     </div>
                     <div className="text">
-                      <p className="mb-4">Serviço de muita qualidade, o pessoal da Hidrojett Desentupidora
+                      <p className="mb-4">Serviço de muita qualidade, o pessoal da tigres Desentupidora
                         realizaram o serviço de forma ágil e eficiente. Recomendo!</p>
                       <div className="d-flex align-items-center">
                         <div className="user-img" style={{ "backgroundImage": "url(https://d36p6ty9wanxdj.cloudfront.net/images/depoimentos.png)" }}>

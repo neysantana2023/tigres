@@ -31,9 +31,7 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-map-marker"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Endereço:</span> Rua Heloisa Pamplona, 32,
-                                fundação São Caetano do Sul - São Paulo
-                                CEP: 09520-320</p>
+                                                <p><span>Endereço:</span> R. Blumenau, 66 - GuarulhosSP, 07073-150 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -44,7 +42,7 @@ const Home: React.FC<{}> = () => {
                                             </div>
                                             <div className="text">
                                                 <p><span>Telefone:</span>
-                                                    <a href="tel://5511937773016">93777-3016</a>
+                                                    <a href="tel://5511996081890">99608-1890</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -55,8 +53,8 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-paper-plane"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Email:</span> <a href="mailto:desentupidorahidrojett@gmail.com">
-                                                    desentupidorahidrojett@gmail.com</a></p>
+                                                <p><span>Email:</span> <a href="mailto:desentupidoratigres@gmail.com">
+                                                    desentupidoratigres@gmail.com</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -66,7 +64,7 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-globe"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Website</span> <a href="#">https://www.hidrojett.com.br/</a></p>
+                                                <p><span>Website</span> <a href="#">https://www.tigres.com.br/</a></p>
                                             </div>
                                         </div>
                                     </div>
