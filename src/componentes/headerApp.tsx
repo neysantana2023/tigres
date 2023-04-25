@@ -43,7 +43,7 @@ const HeaderApp: React.FC<{}> = ({ }) => {
                             </li>
                             <li className="nav-item">
                                 <a aria-label="Contato" href={"contato"} className="nav-link">
-                                    CONTATO
+                                    CONTATOS
                                 </a>
                             </li>
                             <li className="nav-item">
